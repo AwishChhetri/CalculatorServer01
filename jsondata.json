@@ -1,0 +1,81 @@
+[
+  {
+    "vehicleModel": "Chevrolet Malibu",
+    "purchasePrice": 27000,
+    "fuelCost": 1750,
+    "maintenanceCost": 460,
+    "insuranceCost": 950,
+    "resaleValue": 13000,
+    "yearsOfOwnership": 5,
+    "vehicleType": "ICE"
+  },
+  {
+    "vehicleModel": "Chevrolet Malibu",
+    "purchasePrice": 27000,
+    "fuelCost": 500,
+    "maintenanceCost": 250,
+    "insuranceCost": 950,
+    "resaleValue": 13000,
+    "yearsOfOwnership": 5,
+    "vehicleType": "EV"
+  },
+  {
+    "vehicleModel": "Jaguar I-PACE",
+    "purchasePrice": 70000,
+    "fuelCost": 620,
+    "maintenanceCost": 380,
+    "insuranceCost": 1600,
+    "resaleValue": 35000,
+    "yearsOfOwnership": 5,
+    "vehicleType": "EV"
+  },
+  {
+    "vehicleModel": "Jaguar I-PACE",
+    "purchasePrice": 70000,
+    "fuelCost": 1800,
+    "maintenanceCost": 500,
+    "insuranceCost": 1600,
+    "resaleValue": 35000,
+    "yearsOfOwnership": 5,
+    "vehicleType": "ICE"
+  },
+  {
+    "vehicleModel": "Toyota Prius",
+    "purchasePrice": 27000,
+    "fuelCost": 900,
+    "maintenanceCost": 450,
+    "insuranceCost": 950,
+    "resaleValue": 13500,
+    "yearsOfOwnership": 5,
+    "vehicleType": "ICE"
+  },
+  {
+    "vehicleModel": "Toyota Prius",
+    "purchasePrice": 27000,
+    "fuelCost": 500,
+    "maintenanceCost": 250,
+    "insuranceCost": 950,
+    "resaleValue": 13500,
+    "yearsOfOwnership": 5,
+    "vehicleType": "EV"
+  },
+  {
+    "vehicleModel": "Hyundai Ioniq",
+    "purchasePrice": 34000,
+    "fuelCost": 1800,
+    "maintenanceCost": 500,
+    "insuranceCost": 1050,
+    "resaleValue": 17000,
+    "yearsOfOwnership": 5,
+    "vehicleType": "ICE"
+  },
+  {
+    "vehicleModel": "Hyundai Ioniq",
+    "purchasePrice": 34000,
+    "fuelCost": 470,
+    "maintenanceCost": 260,
+    "insuranceCost": 1050,
+    "resaleValue": 17000,
+    "yearsOfOwnership": 5,
+    "vehicleType": "EV"
+  }]
